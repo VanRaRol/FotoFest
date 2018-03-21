@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295067580717",
+    "firebase_url": "https://foto-fest-d2251.firebaseio.com",
+    "project_id": "foto-fest-d2251",
+    "storage_bucket": "foto-fest-d2251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295067580717:android:6445801ee6bac660",
+        "android_client_info": {
+          "package_name": "com.example.oriolqa.foto_fest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295067580717-9pi82dmfhli5mi227373mt89o2fe1c1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oriolqa.foto_fest",
+            "certificate_hash": "10102132d4ab45530eb416e7e98cac47f627a268"
+          }
+        },
+        {
+          "client_id": "295067580717-kj867nkq568lu80sr1aueo4e1el9ucfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjw6ShBs0CBuXYUMipCLC1wKdkwg3Vx6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295067580717-kj867nkq568lu80sr1aueo4e1el9ucfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

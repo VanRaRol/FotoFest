@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Foto-Fest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opcions</string>
+    <string name="fingerprint">Empremta digital</string>
+    <string name="use_fingerprint_to_authenticate_title">Activar empremta digital </string>
+    <string name="use_fingerprint_to_authenticate_key" >Usa empremta digital per autentificar-se</string>
+
+
+
+
+     //Settings
+    <string name="pref_title_ringtone">So</string>
+    <string name="pref_ringtone_silent">Silenci</string>
+
+    <string name="default_gallery_storage">Galeria</string>
+    <string name="title_auto_upload">Auto descarga</string>
+    <string name="summary_upload_over_wifi">Descargar quan el wifi estigui actiu</string>
+    <string name="title_upload_quality">Qualitat</string>
+    <string name="summary_upload_video_quality">Especificat la qualitat de descarga de les fotos</string>
+    <string name="pref_title_notifications">Notificacions</string>
+    <string name="summary_choose_ringtone">Tria so de notificacions</string>
+    <string name="pref_header_about">Quant a</string>
+    <string name="summary_about">Som una empresa dedicada a realitzar els teus events mes especials! </string>
+    <string name="app_version">1.0</string>
+    <string name="summary_support">Tens alguna consulta? Ens complau ajudar-nos.</string>
+    <string name="title_send_feedback">Enviar comentaris</string>
+    <string name="title_faq">FAQ</string>
+    <string name="summary_faq">Visualitza les preguntes</string>
+    <string name="url_faq">https://www.foto-fest.com</string>
+    <string name="privacy_policy">Politica de privacitat</string>
+    <string name="url_privacy">https://www.foto-fest.com/politica-de-privacidad</string>
+    <string name="title_terms">Avis legal</string>
+    <string name="url_terms">https://www.foto-fest.com/aviso-legal</string>
+    <string name="title_version">Versio</string>
+    <string name="choose_email_client">Tria el client de correu electrònic</string>
+    <string name="title_gallery_storage">Emmagatzematge per defecte</string>
+    <string name="title_new_notification_sound">Nova notificació de missatges</string>
+    <string name="title_vibrate">Vibrar</string>
+    <string name="summary_vibrate">Vibra en una nova notificació</string>
+    <string name="key_upload_over_wifi">key_upload_over_wifi</string>
+    <string name="key_gallery_name">key_gallery_name</string>
+    <string name="key_upload_quality">key_upload_quality</string>
+    <string name="notifications_new_message">notifications_new_message</string>
+    <string name="key_notifications_new_message_ringtone">key_notifications_new_message_ringtone</string>
+    <string name="key_vibrate">key_vibrate</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+
+
+
+
+
+
+
+    <string name="cancel">Cancel·lar</string>
+    <string name="use_password">Utilitzar contrasenya</string>
+    <string name="sign_in">Inicia sessió</string>
+    <string name="ok">OK</string>
+    <string name="password">Contrasenya</string>
+    <string name="fingerprint_description">Confirma empremta digital per continuar</string>
+    <string name="fingerprint_hint">Toca el sensor de impremta digital</string>
+    <string name="password_description">Introdueïx la teva contrasenya per continuar</string>
+    <string name="fingerprint_not_recognized">Empremta no reconeguda. Intentau de nou.</string>
+    <string name="fingerprint_success">Empremta digital recogneguda</string>
+    <string name="new_fingerprint_enrolled_description">Nova empremta digital reconeguda al dispositiu, es requereix password.</string>
+    <string name="use_fingerprint_in_future">Usa empremta digital properament</string>
+    <string name="description_fingerprint_icon">Fingerprint icon</string>
+</resources>
+
