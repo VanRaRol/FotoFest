@@ -19,6 +19,15 @@
             android:title="@string/title_auto_upload" />
 
         <ListPreference
+            android:title="Preferencies de xarxa"
+            android:summary="Esculliu si voleu WI-FI o solament dades."
+            android:key="listPref"
+            android:defaultValue="Wi-Fi"
+            android:entries="@array/listArray"
+            android:entryValues="@array/listValues"
+            />
+
+        <ListPreference
             android:defaultValue="3"
             android:dialogTitle="@string/title_upload_quality"
             android:entries="@array/pref_upload_quality_entries"

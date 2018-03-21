@@ -14,4 +14,15 @@
         <item>3</item>
         <item>4</item>
     </string-array>
+
+
+        <string-array name="listArray">
+            <item>Solament Wi-Fi</item>
+            <item>Solament Dades</item>
+        </string-array>
+        <string-array name="listValues">
+            <item>Wi-Fi</item>
+            <item>Qualsevol</item>
+        </string-array>
+
 </resources>
